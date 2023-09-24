@@ -1,6 +1,6 @@
 # 最优化理论 Optimization Theory
 
-本仓库内为2022年春季学期中山大学计算机学院最优化理论课程的期末大作业。
+本仓库内为2022年春季学期中山大学最优化理论课程的期末大作业。
 
 文件说明：
 
@@ -18,7 +18,7 @@
 
 ------
 
-In this warehouse is the final assignment of the Optimization Theory course of School of Computer Science & Engineering, Sun Yat-Sen University in the spring semester of 2022.
+This is the final assignment for the Optimization Theory course of Sun Yat-sen University in the spring semester of 2022.
 
 Document description:
 
